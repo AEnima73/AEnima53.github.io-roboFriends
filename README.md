@@ -1,5 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-View the project in https://AEnima73.github.io/roboFriends-React
 
 ## Available Scripts
 
